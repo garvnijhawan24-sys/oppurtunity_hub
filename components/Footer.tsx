@@ -83,7 +83,6 @@ export default function Footer() {
 
         <div className="mt-8 border-t border-zinc-100 pt-6 dark:border-zinc-900 flex flex-col sm:flex-row items-center justify-between text-[11px] text-zinc-400 dark:text-zinc-500">
           <p>© {new Date().getFullYear()} OpportunityHub. Crafted for collegiate engineers.</p>
-          <p className="mt-2 sm:mt-0 font-mono">Academic Full-Stack Project</p>
         </div>
       </div>
     </footer>

@@ -33,11 +33,6 @@ Community submission form with validation for title, category, application URL, 
 
 ![Submission Portal](screenshots/05-add-opportunity.png)
 
-### 6. Mobile Experience
-Responsive layout featuring the interactive React Bits CardNav with GSAP animated navigation.
-
-![Mobile Navigation](screenshots/06-mobile-view.png)
-
 ---
 
 ## Features
@@ -49,7 +44,6 @@ Responsive layout featuring the interactive React Bits CardNav with GSAP animate
 - **Personal Bookmark Tracker**: Client and server synchronized bookmark manager with live navbar counter.
 - **Submission Form**: Client and server validated form to submit new student opportunities.
 - **View Transitions & Dark Mode**: Smooth circular ripple theme toggle between light and dark mode adhering to high-contrast neutral styling.
-- **Mobile Touch Optimization**: Responsive mobile layout utilizing GSAP-powered CardNav, touch-manipulation settings, and touch target sizes.
 
 ---
 

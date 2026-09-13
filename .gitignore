@@ -40,8 +40,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Markdown documentation files
+# Markdown documentation files (exclude internal agent and planning docs)
 *.md
+!README.md
 
 # Agent, Claude, and Skill files
 AGENTS.md
